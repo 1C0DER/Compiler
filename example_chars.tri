@@ -1,0 +1,36 @@
+!this is an example program
+!This is to test the output of certain scenarios
+
+!Identifiers
+$abc$
+abc123
+$x123$
+myVar
+
+!Integer Literals
+123
+
+!Character Literals
+'a'
+'1'
+'!'
+' '
+
+!Operators
++
+-
+*
+/
+<
+>
+=
+\
+#
+
+!Symbols
+(
+)
+~
+;
+:
+:=
